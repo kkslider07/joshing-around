@@ -23,6 +23,6 @@ p {
     color: purple;
     transition: color 0.3s;
 }
-hover:hover {
+.hover:hover {
   color: orange;               
 }
