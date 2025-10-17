@@ -6,7 +6,7 @@ for funsies
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>My GitHub Page</title>
-        <<link href="style.css" rel="stylesheet" type="text/css" />!-- Link to your CSS file -->
+        <<link href="styling.css" rel="stylesheet" type="text/css" />!-- Link to your CSS file -->
         <link rel="stylesheet" type="text/css" href="style.css"> 
         <!-- If your CSS is in a subfolder, e.g., 'css/style.css', the href would be "css/style.css" -->
     </head>
