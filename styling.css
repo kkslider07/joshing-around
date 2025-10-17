@@ -18,3 +18,11 @@ p {
 .red{
     color: red;
 }
+
+.hover{
+    color: purple;
+    transition: color 0.3s;
+}
+hover:hover {
+  color: orange;               
+}
